@@ -1,0 +1,2532 @@
+[
+ {
+  "id": "boiled_egg_meat_bun_milk",
+  "name": "水煮蛋+肉包+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "meat_bun",
+    "amount_g": 100
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 441,
+   "protein": 24.0,
+   "fat": 20.3,
+   "carb": 40.2,
+   "fiber": 1.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "boiled_egg_bagel_milk",
+  "name": "水煮蛋+贝果+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "bagel",
+    "amount_g": 80
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 421,
+   "protein": 22.7,
+   "fat": 14.5,
+   "carb": 50.2,
+   "fiber": 1.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "boiled_egg_corn_milk",
+  "name": "水煮蛋+玉米+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "corn",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 445,
+   "protein": 23.5,
+   "fat": 15.7,
+   "carb": 55.8,
+   "fiber": 5.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "boiled_egg_sweet_potato_milk",
+  "name": "水煮蛋+番薯+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "sweet_potato",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 393,
+   "protein": 18.7,
+   "fat": 13.5,
+   "carb": 50.4,
+   "fiber": 3.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "boiled_egg_potato_milk",
+  "name": "水煮蛋+土豆+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "potato",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 373,
+   "protein": 19.5,
+   "fat": 13.7,
+   "carb": 44.6,
+   "fiber": 1.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_egg_meat_bun_milk",
+  "name": "蒸水蛋+肉包+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "meat_bun",
+    "amount_g": 100
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 441,
+   "protein": 24.0,
+   "fat": 20.3,
+   "carb": 40.2,
+   "fiber": 1.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_egg_bagel_milk",
+  "name": "蒸水蛋+贝果+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "bagel",
+    "amount_g": 80
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 421,
+   "protein": 22.7,
+   "fat": 14.5,
+   "carb": 50.2,
+   "fiber": 1.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_egg_corn_milk",
+  "name": "蒸水蛋+玉米+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "corn",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 445,
+   "protein": 23.5,
+   "fat": 15.7,
+   "carb": 55.8,
+   "fiber": 5.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_egg_sweet_potato_milk",
+  "name": "蒸水蛋+番薯+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "sweet_potato",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 393,
+   "protein": 18.7,
+   "fat": 13.5,
+   "carb": 50.4,
+   "fiber": 3.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_egg_potato_milk",
+  "name": "蒸水蛋+土豆+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "potato",
+    "amount_g": 200
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 373,
+   "protein": 19.5,
+   "fat": 13.7,
+   "carb": 44.6,
+   "fiber": 1.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "tomato_egg_noodle_milk",
+  "name": "番茄鸡蛋面+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "noodles",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "tomato",
+    "amount_g": 100
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 456,
+   "protein": 21.8,
+   "fat": 14.0,
+   "carb": 54.5,
+   "fiber": 2.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "egg_rice_roll_milk",
+  "name": "鸡蛋肠粉+牛奶",
+  "meal_types": [
+   "breakfast"
+  ],
+  "category": "早餐",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "rice_noodle_sheet",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   },
+   {
+    "id": "milk",
+    "amount_g": 250
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 461,
+   "protein": 20.5,
+   "fat": 13.6,
+   "carb": 62.5,
+   "fiber": 0.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_steamed_ribs",
+  "name": "蒜蓉蒸排骨",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pork_ribs",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 15
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 810,
+   "protein": 56,
+   "fat": 62,
+   "carb": 6,
+   "fiber": 0.2
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "shiitake_steamed_chicken",
+  "name": "香菇蒸鸡",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "chicken_bone_in",
+    "amount_g": 400
+   },
+   {
+    "id": "shiitake",
+    "amount_g": 50
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 690,
+   "protein": 80,
+   "fat": 39,
+   "carb": 8,
+   "fiber": 1.7
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "shiitake_steamed_pork_patty",
+  "name": "香菇蒸肉饼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pork_mince",
+    "amount_g": 250
+   },
+   {
+    "id": "shiitake",
+    "amount_g": 50
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 463,
+   "protein": 44,
+   "fat": 30,
+   "carb": 5,
+   "fiber": 1.7
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "carrot_beef_stirfry",
+  "name": "胡萝卜炒牛肉",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "beef",
+    "amount_g": 200
+   },
+   {
+    "id": "carrot",
+    "amount_g": 150
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 306,
+   "protein": 41,
+   "fat": 9,
+   "carb": 16,
+   "fiber": 4.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "lettuce_stem_beef_stirfry",
+  "name": "莴笋炒牛肉",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "beef",
+    "amount_g": 200
+   },
+   {
+    "id": "lettuce_stem",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 278,
+   "protein": 42,
+   "fat": 9,
+   "carb": 10,
+   "fiber": 1.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "carrot_pork_stirfry",
+  "name": "胡萝卜炒肉片",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pork",
+    "amount_g": 200
+   },
+   {
+    "id": "carrot",
+    "amount_g": 150
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 342,
+   "protein": 42,
+   "fat": 13,
+   "carb": 16,
+   "fiber": 4.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "lettuce_stem_pork_stirfry",
+  "name": "莴笋炒肉片",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pork",
+    "amount_g": 200
+   },
+   {
+    "id": "lettuce_stem",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 314,
+   "protein": 43,
+   "fat": 13,
+   "carb": 10,
+   "fiber": 1.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "carrot_chicken_breast_stirfry",
+  "name": "胡萝卜炒鸡胸肉",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "chicken_breast",
+    "amount_g": 200
+   },
+   {
+    "id": "carrot",
+    "amount_g": 150
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 322,
+   "protein": 64,
+   "fat": 3,
+   "carb": 14,
+   "fiber": 4.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "lettuce_stem_chicken_stirfry",
+  "name": "莴笋炒鸡胸肉",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "chicken_breast",
+    "amount_g": 200
+   },
+   {
+    "id": "lettuce_stem",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 294,
+   "protein": 65,
+   "fat": 3,
+   "carb": 8,
+   "fiber": 1.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_sea_bass",
+  "name": "清蒸鲈鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "sea_bass",
+    "amount_g": 400
+   },
+   {
+    "id": "ginger",
+    "amount_g": 10
+   },
+   {
+    "id": "scallion",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 427,
+   "protein": 75,
+   "fat": 14,
+   "carb": 1,
+   "fiber": 0.2
+  },
+  "tags": [
+   "快手",
+   "fish_whole"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_golden_pomfret",
+  "name": "清蒸金鲳鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "golden_pomfret",
+    "amount_g": 350
+   },
+   {
+    "id": "ginger",
+    "amount_g": 10
+   },
+   {
+    "id": "scallion",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 497,
+   "protein": 65,
+   "fat": 26,
+   "carb": 1,
+   "fiber": 0.2
+  },
+  "tags": [
+   "快手",
+   "fish_whole"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "boiled_shrimp",
+  "name": "水煮虾",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "shrimp",
+    "amount_g": 400
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 348,
+   "protein": 74,
+   "fat": 3,
+   "carb": 4,
+   "fiber": 0
+  },
+  "tags": [
+   "快手",
+   "shrimp"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "baked_salmon",
+  "name": "烤三文鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "salmon",
+    "amount_g": 300
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 417,
+   "protein": 64,
+   "fat": 18,
+   "carb": 0,
+   "fiber": 0
+  },
+  "tags": [
+   "快手",
+   "fish_portion"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "white_cut_chicken",
+  "name": "白切鸡",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "chicken_bone_in",
+    "amount_g": 500
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 835,
+   "protein": 97,
+   "fat": 47,
+   "carb": 7,
+   "fiber": 0
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "mapo_tofu",
+  "name": "麻婆豆腐",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "tofu",
+    "amount_g": 400
+   },
+   {
+    "id": "pork_mince",
+    "amount_g": 80
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 468,
+   "protein": 39,
+   "fat": 25,
+   "carb": 22,
+   "fiber": 1.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "home_style_tofu",
+  "name": "家常豆腐",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "tofu",
+    "amount_g": 400
+   },
+   {
+    "id": "pork",
+    "amount_g": 100
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 467,
+   "protein": 42,
+   "fat": 21,
+   "carb": 18,
+   "fiber": 1.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "shrimp_scrambled_egg",
+  "name": "虾仁滑蛋",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "shrimp_peeled",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 120
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 359,
+   "protein": 53,
+   "fat": 12,
+   "carb": 6,
+   "fiber": 0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "tomato_braised_brisket",
+  "name": "番茄牛腩",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "beef",
+    "amount_g": 300
+   },
+   {
+    "id": "tomato",
+    "amount_g": 300
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 432,
+   "protein": 62,
+   "fat": 13,
+   "carb": 16,
+   "fiber": 1.5
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "冬季",
+  "quick": false
+ },
+ {
+  "id": "wood_ear_scrambled_egg",
+  "name": "木耳炒鸡蛋",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "wood_ear",
+    "amount_g": 100
+   },
+   {
+    "id": "egg",
+    "amount_g": 120
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 194,
+   "protein": 19,
+   "fat": 11,
+   "carb": 9,
+   "fiber": 2.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "celery_pork_stirfry",
+  "name": "芹菜炒肉丝",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "celery",
+    "amount_g": 200
+   },
+   {
+    "id": "pork",
+    "amount_g": 150
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 243,
+   "protein": 33,
+   "fat": 10,
+   "carb": 8,
+   "fiber": 2.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "chives_scrambled_egg",
+  "name": "韭菜炒蛋",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "chives",
+    "amount_g": 150
+   },
+   {
+    "id": "egg",
+    "amount_g": 120
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 212,
+   "protein": 19,
+   "fat": 11,
+   "carb": 10,
+   "fiber": 2.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_shrimp",
+  "name": "清蒸虾仁",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "shrimp_peeled",
+    "amount_g": 300
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 279,
+   "protein": 60,
+   "fat": 2,
+   "carb": 5,
+   "fiber": 0
+  },
+  "tags": [
+   "快手",
+   "shrimp"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "oyster_sauce_king_oyster",
+  "name": "蚝油杏鲍菇",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "king_oyster",
+    "amount_g": 300
+   },
+   {
+    "id": "oyster_sauce",
+    "amount_g": 15
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 107,
+   "protein": 4,
+   "fat": 0.3,
+   "carb": 20,
+   "fiber": 5.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "braised_hairtail",
+  "name": "红烧带鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "hairtail",
+    "amount_g": 350
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 445,
+   "protein": 62,
+   "fat": 20,
+   "carb": 0,
+   "fiber": 0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "tofu_fish_soup",
+  "name": "豆腐鲫鱼汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "crucian_carp",
+    "amount_g": 300
+   },
+   {
+    "id": "tofu",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 486,
+   "protein": 65,
+   "fat": 20,
+   "carb": 9,
+   "fiber": 0.8
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "garlic_broccoli",
+  "name": "蒜蓉西兰花",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "broccoli",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 120,
+   "protein": 13,
+   "fat": 4,
+   "carb": 15,
+   "fiber": 4.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_choy_sum",
+  "name": "蒜蓉菜心",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "choy_sum",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 66,
+   "protein": 6,
+   "fat": 3,
+   "carb": 10,
+   "fiber": 3.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_oil_lettuce",
+  "name": "蒜蓉油麦菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "oil_lettuce",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 57,
+   "protein": 5,
+   "fat": 3,
+   "carb": 8,
+   "fiber": 1.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_spinach",
+  "name": "蒜蓉菠菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "spinach",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 84,
+   "protein": 9,
+   "fat": 3,
+   "carb": 13,
+   "fiber": 5.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "冬季",
+  "quick": true
+ },
+ {
+  "id": "garlic_okra",
+  "name": "蒜蓉秋葵",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "okra",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 123,
+   "protein": 7,
+   "fat": 2,
+   "carb": 25,
+   "fiber": 9.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_cabbage",
+  "name": "蒜蓉包菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "cabbage",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 78,
+   "protein": 6,
+   "fat": 3,
+   "carb": 16,
+   "fiber": 3.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_lettuce",
+  "name": "蒜蓉生菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "lettuce",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 51,
+   "protein": 5,
+   "fat": 3,
+   "carb": 6,
+   "fiber": 2.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_bok_choy",
+  "name": "蒜蓉青菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "bok_choy",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 57,
+   "protein": 6,
+   "fat": 3,
+   "carb": 6,
+   "fiber": 2.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_baby_cabbage",
+  "name": "蒜蓉娃娃菜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "baby_cabbage",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 48,
+   "protein": 4,
+   "fat": 3,
+   "carb": 7,
+   "fiber": 2.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_sweet_potato_leaf",
+  "name": "蒜蓉番薯叶",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "sweet_potato_leaf",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 117,
+   "protein": 11,
+   "fat": 4,
+   "carb": 18,
+   "fiber": 6.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_eggplant",
+  "name": "蒜蓉茄子",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "eggplant",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 75,
+   "protein": 4,
+   "fat": 3,
+   "carb": 16,
+   "fiber": 3.9
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_cucumber",
+  "name": "蒜蓉青瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "cucumber",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 57,
+   "protein": 3,
+   "fat": 3,
+   "carb": 11,
+   "fiber": 1.5
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_bottle_gourd",
+  "name": "蒜蓉葫芦瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "bottle_gourd",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 57,
+   "protein": 3,
+   "fat": 2,
+   "carb": 11,
+   "fiber": 1.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_wax_gourd",
+  "name": "蒜蓉水瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "wax_gourd",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 48,
+   "protein": 2,
+   "fat": 3,
+   "carb": 10,
+   "fiber": 2.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_fuzzy_gourd",
+  "name": "蒜蓉毛瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "fuzzy_gourd",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 54,
+   "protein": 3,
+   "fat": 2,
+   "carb": 11,
+   "fiber": 1.5
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "garlic_loofah",
+  "name": "蒜蓉丝瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "loofah",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 72,
+   "protein": 4,
+   "fat": 3,
+   "carb": 15,
+   "fiber": 1.8
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "stir_fry_bean_sprouts",
+  "name": "清炒豆芽",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "bean_sprouts",
+    "amount_g": 300
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 66,
+   "protein": 7,
+   "fat": 2,
+   "carb": 11,
+   "fiber": 3.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "cold_wood_ear",
+  "name": "凉拌木耳",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "wood_ear",
+    "amount_g": 200
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 54,
+   "protein": 4,
+   "fat": 2,
+   "carb": 12,
+   "fiber": 5.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "stir_fry_snow_pea",
+  "name": "清炒荷兰豆",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "snow_pea",
+    "amount_g": 300
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 102,
+   "protein": 10,
+   "fat": 3,
+   "carb": 17,
+   "fiber": 6.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_bitter_gourd",
+  "name": "蒜蓉苦瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "bitter_gourd",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 69,
+   "protein": 4,
+   "fat": 2,
+   "carb": 13,
+   "fiber": 4.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "stir_fry_string_bean",
+  "name": "干煸四季豆",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "string_bean",
+    "amount_g": 300
+   },
+   {
+    "id": "pork_mince",
+    "amount_g": 50
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 174,
+   "protein": 15,
+   "fat": 7,
+   "carb": 18,
+   "fiber": 4.5
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "garlic_pumpkin",
+  "name": "蒜蓉南瓜",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "蔬菜",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pumpkin",
+    "amount_g": 300
+   },
+   {
+    "id": "garlic",
+    "amount_g": 10
+   },
+   {
+    "id": "peanut_oil",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 78,
+   "protein": 3,
+   "fat": 2,
+   "carb": 18,
+   "fiber": 2.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "tomato_egg_soup",
+  "name": "番茄鸡蛋汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "tomato",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 124,
+   "protein": 9,
+   "fat": 6,
+   "carb": 10,
+   "fiber": 1.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "tomato_pork_soup",
+  "name": "番茄肉片汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "tomato",
+    "amount_g": 200
+   },
+   {
+    "id": "pork",
+    "amount_g": 100
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 181,
+   "protein": 22,
+   "fat": 7,
+   "carb": 10,
+   "fiber": 1.0
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "loofah_egg_soup",
+  "name": "丝瓜鸡蛋汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "loofah",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 126,
+   "protein": 8,
+   "fat": 6,
+   "carb": 10,
+   "fiber": 1.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "loofah_pork_soup",
+  "name": "丝瓜肉片汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "loofah",
+    "amount_g": 200
+   },
+   {
+    "id": "pork",
+    "amount_g": 100
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 183,
+   "protein": 22,
+   "fat": 7,
+   "carb": 10,
+   "fiber": 1.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "wax_gourd_egg_soup",
+  "name": "水瓜鸡蛋汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "wax_gourd",
+    "amount_g": 200
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 110,
+   "protein": 8,
+   "fat": 6,
+   "carb": 7,
+   "fiber": 1.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "wax_gourd_pork_soup",
+  "name": "水瓜肉片汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "wax_gourd",
+    "amount_g": 200
+   },
+   {
+    "id": "pork",
+    "amount_g": 100
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 167,
+   "protein": 21,
+   "fat": 7,
+   "carb": 7,
+   "fiber": 1.4
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "夏季",
+  "quick": true
+ },
+ {
+  "id": "spine_carrot_corn_soup",
+  "name": "扇骨胡萝卜玉米汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pork_spine",
+    "amount_g": 300
+   },
+   {
+    "id": "carrot",
+    "amount_g": 150
+   },
+   {
+    "id": "corn",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 970,
+   "protein": 59,
+   "fat": 57,
+   "carb": 56,
+   "fiber": 7.0
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "winter_melon_rib_soup",
+  "name": "冬瓜排骨汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "winter_melon",
+    "amount_g": 300
+   },
+   {
+    "id": "pork_ribs",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 561,
+   "protein": 39,
+   "fat": 41,
+   "carb": 11,
+   "fiber": 2.1
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "夏季",
+  "quick": false
+ },
+ {
+  "id": "nori_egg_soup",
+  "name": "紫菜蛋花汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "nori",
+    "amount_g": 5
+   },
+   {
+    "id": "egg",
+    "amount_g": 60
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 99,
+   "protein": 9,
+   "fat": 5,
+   "carb": 4,
+   "fiber": 1.1
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "kelp_rib_soup",
+  "name": "海带排骨汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "kelp",
+    "amount_g": 100
+   },
+   {
+    "id": "pork_ribs",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 540,
+   "protein": 38,
+   "fat": 41,
+   "carb": 6,
+   "fiber": 0.5
+  },
+  "tags": [
+   "慢炖"
+  ],
+  "season": "四季",
+  "quick": false
+ },
+ {
+  "id": "pumpkin_soup",
+  "name": "南瓜浓汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "pumpkin",
+    "amount_g": 400
+   },
+   {
+    "id": "milk",
+    "amount_g": 100
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 142,
+   "protein": 6,
+   "fat": 3,
+   "carb": 25,
+   "fiber": 3.2
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "mushroom_tofu_soup",
+  "name": "香菇豆腐汤",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "汤",
+  "base_servings": 3,
+  "ingredients": [
+   {
+    "id": "shiitake",
+    "amount_g": 50
+   },
+   {
+    "id": "tofu",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 175,
+   "protein": 18,
+   "fat": 8,
+   "carb": 12,
+   "fiber": 2.5
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_rice",
+  "name": "米饭",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主食",
+  "base_servings": 1,
+  "ingredients": [
+   {
+    "id": "rice",
+    "amount_g": 200
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 232,
+   "protein": 5.2,
+   "fat": 0.6,
+   "carb": 51.8,
+   "fiber": 0.6
+  },
+  "tags": [
+   "快手"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_sunfish",
+  "name": "清蒸太阳鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "sunfish",
+    "amount_g": 400
+   },
+   {
+    "id": "ginger",
+    "amount_g": 10
+   },
+   {
+    "id": "scallion",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 392,
+   "protein": 77,
+   "fat": 8,
+   "carb": 1,
+   "fiber": 0.2
+  },
+  "tags": [
+   "快手",
+   "fish_whole"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_mangrove_snapper",
+  "name": "清蒸盲曹鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "mangrove_snapper",
+    "amount_g": 400
+   },
+   {
+    "id": "ginger",
+    "amount_g": 10
+   },
+   {
+    "id": "scallion",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 440,
+   "protein": 82,
+   "fat": 11,
+   "carb": 1,
+   "fiber": 0.2
+  },
+  "tags": [
+   "快手",
+   "fish_whole"
+  ],
+  "season": "四季",
+  "quick": true
+ },
+ {
+  "id": "steamed_yellowfin_seabream",
+  "name": "清蒸金绸鱼",
+  "meal_types": [
+   "lunch",
+   "dinner"
+  ],
+  "category": "主菜",
+  "base_servings": 3,
+  "min_diners": 3,
+  "ingredients": [
+   {
+    "id": "yellowfin_seabream",
+    "amount_g": 400
+   },
+   {
+    "id": "ginger",
+    "amount_g": 10
+   },
+   {
+    "id": "scallion",
+    "amount_g": 10
+   }
+  ],
+  "total_nutrients": {
+   "kcal": 524,
+   "protein": 76,
+   "fat": 22,
+   "carb": 1,
+   "fiber": 0.2
+  },
+  "tags": [
+   "快手",
+   "fish_whole"
+  ],
+  "season": "四季",
+  "quick": true
+ }
+]

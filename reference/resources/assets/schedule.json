@@ -1,0 +1,9 @@
+{
+  "monday": {"breakfast": ["teen_boy", "young_woman", "middle_a"], "lunch": null, "dinner": ["teen_boy", "middle_a"]},
+  "tuesday": {"breakfast": ["teen_boy", "young_woman", "middle_a"], "lunch": ["middle_a"], "dinner": ["teen_boy", "middle_a"]},
+  "wednesday": {"breakfast": ["teen_boy", "young_woman", "middle_a"], "lunch": null, "dinner": ["teen_boy", "middle_a"]},
+  "thursday": {"breakfast": ["teen_boy", "young_woman", "middle_a"], "lunch": ["middle_a"], "dinner": ["teen_boy", "middle_a"]},
+  "friday": {"breakfast": ["teen_boy", "young_woman", "middle_a"], "lunch": ["middle_a"], "dinner": ["teen_boy", "young_woman", "middle_a", "middle_b"]},
+  "saturday": {"breakfast": ["teen_boy", "young_woman", "middle_a", "middle_b"], "lunch": ["teen_boy", "young_woman", "middle_a", "middle_b"], "dinner": ["teen_boy", "middle_a", "middle_b"]},
+  "sunday": {"breakfast": ["teen_boy", "young_woman", "middle_a", "middle_b"], "lunch": ["teen_boy", "young_woman", "middle_a", "middle_b"], "dinner": ["teen_boy", "middle_a", "middle_b"]}
+}
