@@ -1,10 +1,10 @@
 # 无关项目文档，不入本仓库
 错题本方案.md
 
-# 家人隐私内容，仅本地留存，永不入库
-persons.json
-example/
-familymeal-0.1.0.apk.1.apk.1_tmp.apk.1_tmp
+# 家人隐私内容，仅本地留存，永不入库（锚定根目录：reference/ 内已脱敏副本不受影响）
+/persons.json
+/example/
+/familymeal-0.1.0.apk.1.apk.1_tmp.apk.1_tmp
 
 # 真机备份数据（含家人身体数据，永不入库）
 data/
