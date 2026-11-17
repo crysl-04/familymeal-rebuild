@@ -1,0 +1,5 @@
+57928d6e5a6edeb2abd3770a8f95ba44dce45f3b23b7a9dc2b309c581552a78b  gson-2.11.0.jar
+66eca96cf2cd433c31763db028d8337b133447bdaa75ecdea939b57dd20bce50  ojalgo-57.7.0.jar
+来源: Maven Central (repo1.maven.org)
+ojalgo: https://repo1.maven.org/maven2/org/ojalgo/ojalgo/57.7.0/ojalgo-57.7.0.jar (Java 11 字节码，兼容 Android；58.x 需 Java 22，勿升级)
+gson: https://repo1.maven.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
