@@ -35,6 +35,6 @@
 
 ## 待定决策
 
-- 远程仓库：GitHub 私有（crysl-04）为默认；如需国内加速可改 Gitee
+- 远程仓库：已定——GitHub（crysl-04）+ Gitee（crystalluo）双公开远程，欢迎协作
 - UI 重写素材：需从手机截图各页面
 - 求解器如 ojAlgo 移植遇阻：文档预案为"贪心 + 模拟退火"
